@@ -1,0 +1,29 @@
+cd door_management_files
+cd door_configuration
+vim door_1.conf
+
+
+DOOR 1 CONFIGURATION
+
+STATUS: OPEN
+
+123d
+241s
+100000000
+893
+5
+2342325
+34
+23
+
+
+35
+
+
+1231
+231
+1
+
+
+
+
